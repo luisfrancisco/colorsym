@@ -1,0 +1,70 @@
+FONTLOG for the ColorSym fonts
+
+This file provides detailed information on the ColorSym Font Software.
+This information should be distributed along with the ColorSym fonts
+and any derivative works.
+
+Basic Font Information
+
+ColorSym is an open color-identification typeface family. Each glyph is a
+unique, omnidirectional symbol mapped to a color so anyone can tell colors
+apart, even when color alone is not enough.
+
+The system is built mainly on three primary symbols that combine to form the rest:
+
+- Red: dot (R)
+- Yellow: line (Y)
+- Blue: chevron (B)
+
+Base colors use a single letter key: Red (R), Yellow (Y), Blue (B), Black (K),
+and White (W).
+
+Combined colors use a single letter key or a two-letter ligature built from
+their parent colors: Orange (O, RY), Green (G), Brown (N), Violet (V), Pink (P),
+and Gray (A). Ligatures such as RY, YB, RG, RB, RW, and KW fuse parent symbols
+into the combined color glyph automatically.
+
+This release includes the following styles:
+
+- ColorSym Regular
+- ColorSym Bold
+- ColorSym Sharp
+- ColorSym Styled
+- ColorSym Calligraphic
+- ColorSym Pencil
+- ColorSym LCD
+
+The font is licensed under the SIL Open Font License 1.1. The standalone SVG
+symbols are licensed under Creative Commons Attribution-ShareAlike 4.0
+International (CC BY-SA 4.0).
+
+Documentation, downloads, and a live specimen are available at
+https://colorsym.com
+
+Source files and contribution guidelines are available at
+https://github.com/boardssey/colorsym
+
+To contribute a new style or improvement, fork the repository, keep the symbol
+mappings intact, and open a pull request.
+
+ChangeLog
+
+19 June 2026 (Luis Francisco) ColorSym version 1.0
+- Initial public release of the ColorSym font family
+- Seven styles: Regular, Bold, Sharp, Styled, Calligraphic, Pencil, and LCD
+- Eleven color symbols with parent-color ligatures
+- SVG symbol pack for web, print, and design tools
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address
+(if you have one) (W) and description (D). This list is in alphabetical order.
+
+N: Chris Eastridge
+W: https://moonsagaworkshop.com
+D: Co-creator and original designer of the color symbol system for Parks & Potions
+
+N: Luis Francisco
+W: https://grokgames.com.br
+D: Co-creator; expanded the symbol system into ColorSym as an open standard
+
